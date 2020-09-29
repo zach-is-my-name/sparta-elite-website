@@ -1,0 +1,16 @@
+.appointlet-user > input[type=text] {
+	width: 75px;
+}
+
+.appointlet-button input[type=radio] {
+	margin-right: 7px;
+}
+
+.appointlet-button img {
+	vertical-align: middle;
+	max-width: 200px;
+}
+
+.appointlet-button-custom {
+	width: 200px;
+}
